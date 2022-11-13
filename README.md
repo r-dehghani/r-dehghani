@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Dariush Dehghani** via @r-dehghani on GitHub
-- 👀 I’m interested in Python programming :man_technologist:
-- 🌱 I’m currently learning Python and machine learning 
+- 👀 I’m interested in Python programming and machine learning :man_technologist:
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me : r.dehghani.90[at]gmail.com
 
 <!---
