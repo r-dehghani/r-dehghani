@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=http://www.yakhdoon.ir)](http://www.yakhdoon.ir)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 <!-- [![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) -->
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/r-dehghani?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/r-dehghani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/r-dehghani?tab=followers)
 ---
 
 ```
