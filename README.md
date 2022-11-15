@@ -1,6 +1,4 @@
 # 👋 Hi, I’m **Dariush Dehghani** via @r-dehghani on GitHub
-- 👀 I’m interested in Python programming and machine learning :man_technologist:
-- 🌱 I’m currently learning machine learning :brain:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.dehghani.90@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=http://www.yakhdoon.ir)](http://www.yakhdoon.ir)
@@ -8,10 +6,14 @@
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![GitHub followers](https://img.shields.io/github/followers/r-dehghani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/r-dehghani?tab=followers)
 
-<!-- [![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) -->
----
+- 👀 I’m interested in Python programming and machine learning :man_technologist:
+- 🌱 I’m currently learning machine learning :brain:
 
-```
+
+
+<!-- [![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) -->
+
+```python
 
 class Programmer:
     def __init__(self, name: str, family: str, is_alive: bool, coding: bool = False):
@@ -29,9 +31,13 @@ while me.is_alive == True:
     me.coding = True
 ```
 
+My Statistics:
+-
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=r-dehghani&theme=dark&layout=compact)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-dehghani&theme=dark&card_width=350px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-dehghani&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=r-dehghani&theme=dark)](https://git.io/streak-stats)
+
 
 <!---
 r-dehghani/r-dehghani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
