@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Dariush Dehghani** via @r-dehghani on GitHub
-👀 I’m interested in Python programming and machine learning :man_technologist:
+👀 I’m interested in Python programming and machine learning :man_technologist: \n
 🌱 I’m currently learning machine learning :brain:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.dehghani.90@gmail.com)
