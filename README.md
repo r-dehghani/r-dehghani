@@ -28,7 +28,7 @@ me = Programmer(name="Dariush", Family="Dehghani", is_alive=True, coding=None)
 while me.is_alive == True:
     me.coding = True
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-dehghani)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-dehghani&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=r-dehghani&theme=dark)](https://git.io/streak-stats)
 <!---
 r-dehghani/r-dehghani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
