@@ -8,6 +8,7 @@
 
 - 👀 I’m interested in Python programming and machine learning :man_technologist:
 - 🌱 I’m currently learning machine learning :brain:
+- 🍳 nowadays I'm reading SQL cookbook by by Anthony Molinaro and Robert de Graaf
 
 
 
