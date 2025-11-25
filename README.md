@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Dariush Dehghani** via @r-dehghani on GitHub
+# 👋 Hi, I’m **Rouhollah Dehghani** via @r-dehghani on GitHub
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.dehghani.90@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dariush-dehghani.ir/)](https://dariush-dehghani.ir/)
