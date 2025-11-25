@@ -25,7 +25,7 @@ class Programmer:
     def __str__(self) -> str:
         print(f"Be a good version of yourself {self.name} {self.family}.")
 
-me = Programmer(name="Dariush", Family="Dehghani", is_alive=True, coding=None)
+me = Programmer(name="Rouhollah", Family="Dehghani", is_alive=True, coding=None)
 
 while me.is_alive == True:
     me.coding = True
